@@ -981,7 +981,9 @@ body {
     margin-left: 150px;
     gap: 30px;
 }
-
+.video-header {
+    margin-top: 0;
+}
 .footer-right-title {
     color: var(--text-color-white, #fff);
     /* Paragraph/h2 18px medium */
